@@ -6,3 +6,4 @@ let promise = new Promise(
     resolve()
   }
 );
+console.log(1234);
