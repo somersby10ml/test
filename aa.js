@@ -16,5 +16,5 @@ async function j(){
 
 function renamed(){
   addEventListener;
-  return 234;
+  return 123;
 }
