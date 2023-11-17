@@ -7,3 +7,14 @@ let promise = new Promise(
   }
 );
 console.log(1234);
+console.log(5678);
+
+
+async function j(){
+  return abc;
+}
+
+function renamed(){
+  addEventListener;
+  
+}
